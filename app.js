@@ -48,6 +48,10 @@ eliminarp();
 
 console.log(listaContactos)
 
+añadirContacto("jose calle");
+
+console.log(listaContactos);
+
 
 
 
